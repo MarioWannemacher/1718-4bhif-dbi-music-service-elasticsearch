@@ -1,69 +1,59 @@
 [
   {
-    "albumId": 1,
     "id": 1,
     "title": "AUG",
     "url": "http://www.bilder-upload.eu/upload/63e066-1528990251.png",
     "thumbnailUrl": "http://www.bilder-upload.eu/upload/711e96-1528990037.png "
   },
   {
-    "albumId": 1,
     "id": 2,
     "title": "Glock18",
     "url": "http://www.bilder-upload.eu/upload/59ef5d-1528990262.png",
     "thumbnailUrl": "http://www.bilder-upload.eu/upload/9ef261-1528990097.png"
   },
     {
-    "albumId": 1,
     "id": 3,
     "title": "MP7",
     "url": "http://www.bilder-upload.eu/upload/b43ccc-1528990277.png",
     "thumbnailUrl": "http://www.bilder-upload.eu/upload/329013-1528990115.png"
   },
     {
-    "albumId": 1,
     "id": 4,
     "title": "Scout",
     "url": "http://www.bilder-upload.eu/upload/274913-1528990290.png",
     "thumbnailUrl": "http://www.bilder-upload.eu/upload/c4e21c-1528990131.png"
   },
     {
-    "albumId": 1,
     "id": 5,
     "title": "UMP47",
     "url": "http://www.bilder-upload.eu/upload/55132c-1528990306.png",
     "thumbnailUrl": "http://www.bilder-upload.eu/upload/f6a9d7-1528990151.png"
   },
       {
-    "albumId": 1,
     "id": 6,
     "title": "AK-47",
     "url": "http://www.bilder-upload.eu/upload/b4c1bd-1528990320.png",
     "thumbnailUrl": "http://www.bilder-upload.eu/upload/494277-1528990164.png"
   },
       {
-    "albumId": 1,
     "id": 7,
     "title": "AWP",
     "url": "http://www.bilder-upload.eu/upload/0c4315-1528990332.png",
     "thumbnailUrl": "http://www.bilder-upload.eu/upload/893dd9-1528990180.png"
   },
       {
-    "albumId": 1,
     "id": 8,
     "title": "M4A4",
     "url": "http://www.bilder-upload.eu/upload/276462-1528990345.png",
     "thumbnailUrl": "http://www.bilder-upload.eu/upload/f32f57-1528990193.png"
   },
       {
-    "albumId": 1,
     "id": 9,
     "title": "USP",
     "url": "http://www.bilder-upload.eu/upload/1c0465-1528990357.png",
     "thumbnailUrl": "http://www.bilder-upload.eu/upload/090541-1528990218.png"
   },
       {
-    "albumId": 1,
     "id": 10,
     "title": "Desert Eagle",
     "url": "http://www.bilder-upload.eu/upload/51b7e4-1528990369.png",
